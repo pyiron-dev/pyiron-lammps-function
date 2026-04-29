@@ -6,4 +6,4 @@ dependencies:
 - lammpsparser =0.0.3
 - iprpy-data =2023.07.25
 - pyiron-data =0.0.30
-- pyiron_atomistics =0.8.7
+- pyiron_atomistics =0.8.8
